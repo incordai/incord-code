@@ -1,6 +1,8 @@
 # incord-code
 An autonomous coding harness. It plans work, delegates it to a coding agent you already have installed and logged in, and proves the work was done before it calls it done.
 
+
+[coding_agent_blob_incord_pixel_intro.html](https://github.com/user-attachments/files/31758644/coding_agent_blob_incord_pixel_intro.html)
 <h2 class="sr-only">An animated blob-shaped coding agent. On load a pixel wordmark reading Incord lights up, then hands off to a code line display with six working states: idle, thinking, writing, running, blocked and done.</h2>
 <div class="stage st-idle">
 <div class="aura"></div>
